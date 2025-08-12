@@ -1,1 +1,1 @@
-# Test file for The Odin Project Foundation Course
+# Test repo for The Odin Project Foundation Course
